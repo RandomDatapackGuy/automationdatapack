@@ -1,2 +1,1 @@
-# automationdatapack
-This is just a place for me to toss in progress version of the WIP datapack I'm making. There is a link to a spreadsheet with current planned content and implementation progress in the README file.
+https://docs.google.com/spreadsheets/d/1vv5tkHM6YCeWI3ZHphyaJtD_SC47ULbSfy8oyIXwuPI/edit?usp=sharing
