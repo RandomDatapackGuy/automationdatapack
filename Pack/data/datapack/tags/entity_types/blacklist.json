@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+      "armor_stand",
+      "area_effect_cloud",
+      "item_frame",
+      "shulker_bullet",
+      "#impact_projectiles",
+      "item"
+    ]
+  }
