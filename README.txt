@@ -3,14 +3,14 @@ Autopack is a datapack that is supposed to add both more automation and more ran
 Recently updated to v0.2 look below for changelog
 
 In order to impliment the datapack into a new world do the following
-1> Launch minecraft in the latest 1.17 snapshot version
+1> Launch minecraft in 1.17
 2> Download autopack.zip
 2> Go to create a world and click the datapacks button
 3> Click the open pack folder button and put packbeta.zip into it
 4> It should show up in the avalable section after so just enable it then finish creating the world as normal
 
 In order to add it to an existing world do the following
-1> Launch minecraft in the latest 1.17 snapshot version
+1> Launch minecraft in 1.17
 2> Download autopack.zip
 3> Select the world you want to add it into then click edit
 4> Click open world folder
