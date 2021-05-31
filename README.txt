@@ -56,5 +56,5 @@ If you can't tell by the lack of mob variety and many biomes/structures missing 
 Currently my plans are to add another 2-3 mobs to every unfinished nether biome, 5 night hostile mobs, 1 cave exlusive hostile mob, 1 daytime hostile mob, and 3 passive mobs to the overworld.
 I also plan to give every naturally spawning structure in the game with the exemption of villages one of it's own uniqe mobs similar to the shulker king in the end cities. (though the shulker king is really boring I can assure you the others will be more interesting.)
 I also am going to be implimenting 2 tiers of armor in between vanilla armor and orichalcum as now that the enemies are much more difficult there will be a lot more struggle to get endgame gear.
-Also for the meantime before other hostiles are added to the overworld the entirety of the 40 mob cap will be taken up by wraiths so I have lowered it to 10 base for the meantime
+Also for the meantime before other hostiles are added to the overworld the entirety of the 40 mob cap will be taken up by wraiths so the overworld is going to be wraith hell for now.
 Other than that if you look at the spreadsheet with all the items on it the new mobs are on a new tab.
