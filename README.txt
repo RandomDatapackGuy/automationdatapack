@@ -58,3 +58,10 @@ I also plan to give every naturally spawning structure in the game with the exem
 I also am going to be implimenting 2 tiers of armor in between vanilla armor and orichalcum as now that the enemies are much more difficult there will be a lot more struggle to get endgame gear.
 Also for the meantime before other hostiles are added to the overworld the entirety of the 40 mob cap will be taken up by wraiths so the overworld is going to be wraith hell for now.
 Other than that if you look at the spreadsheet with all the items on it the new mobs are on a new tab.
+Total additions:
++2 New mechanics/systems
++4 Bugs fixed
++12 Mobs
++3 Items
++3 Crafting station recipies
++20 Crafting table recipies
