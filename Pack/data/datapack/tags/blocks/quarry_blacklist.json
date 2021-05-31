@@ -1,10 +1,15 @@
 {
     "replace":false,
     "values": [
-        "#minecraft:dragon_immune",
+        "bedrock",
         "cave_air",
         "chest",
         "spawner",
-        "air"
+        "air",
+        "barrier",
+        "light",
+        "command_block",
+        "repeating_command_block",
+        "chain_command_block"
     ]
 }

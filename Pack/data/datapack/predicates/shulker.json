@@ -1,0 +1,10 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "stepping_on": {
+        "feature": "endcity",
+        "dimension": "minecraft:the_end"
+      }
+    }
+  }

@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:stone"
+    },
+    "title": "",
+    "description": "",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "type": "minecraft:shulker",
+            "nbt": "{Tags:[\"soullessentity\"]}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "datapack:effect/soullessentityhit"
+  }
+}

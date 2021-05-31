@@ -1,0 +1,15 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "stepping_on": {
+      "dimension": "minecraft:overworld",
+      "light": {
+        "light": {
+          "min": 0,
+          "max": 10
+        }
+      }
+    }
+  }
+}

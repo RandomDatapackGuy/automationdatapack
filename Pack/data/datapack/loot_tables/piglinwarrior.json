@@ -1,0 +1,45 @@
+{
+    "pools": [
+      {
+        "rolls": 3,
+        "entries": [
+          {
+            "type": "item",
+            "weight": 2,
+            "quality": 1,
+            "name": "minecraft:diamond",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "quality": 1,
+            "name": "minecraft:gold_ingot",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "type": "item",
+            "weight": 4,
+            "quality": 1,
+            "name": "minecraft:iron_ingot",
+            "functions": [
+              {
+                "function": "set_count",
+                "count": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

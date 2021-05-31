@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "stepping_on": {
+        "dimension": "minecraft:the_end",
+        "block": {
+          "blocks": [
+            "minecraft:end_stone"
+          ]
+        }
+      }
+    }
+  }

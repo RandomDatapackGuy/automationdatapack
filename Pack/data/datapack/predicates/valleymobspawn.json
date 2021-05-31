@@ -1,0 +1,13 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "stepping_on": {
+        "biome": "minecraft:soul_sand_valley",
+        "dimension": "minecraft:the_nether",
+        "light": {
+          "light": 0
+        }
+      }
+    }
+  }

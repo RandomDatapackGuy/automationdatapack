@@ -19,3 +19,12 @@ scoreboard objectives add regenCooldown dummy
 scoreboard objectives add haste dummy
 scoreboard objectives add craftingStation minecraft.crafted:bedrock
 effect give @a instant_health
+scoreboard objectives add type dummy
+scoreboard objectives add crossbow dummy
+scoreboard objectives add mobCap dummy
+team add noname
+team modify noname nametagVisibility never
+team add endmobs
+team modify endmobs friendlyFire false
+team modify endmobs nametagVisibility never
+scoreboard objectives add levitationimmune dummy
